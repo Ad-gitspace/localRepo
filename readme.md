@@ -19,4 +19,4 @@ git checkout -b create_new_branch_name
 git checkout teleport_to_branch_name_entered_here
 
 This line of text is only written for branch_1
-<!-- You can check it's non-availability in  git chekout main_branch git-->
+<!-- You can check it's non-availability in  git chekout main_branch-->
